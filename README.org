@@ -1,3 +1,13 @@
+#+begin_html
+<a href="https://github.com/qdzhang/quick-insert-unicode/actions/workflows/test.yml">
+<img alt="Build Status" src="https://github.com/qdzhang/quick-insert-unicode/actions/workflows/test.yml/badge.svg" />
+</a>
+
+<a href="https://www.gnu.org/licenses/gpl-3.0">
+<img alt="GPL v3" src="https://img.shields.io/badge/License-GPL%20v3-blue.svg" />
+</a>
+#+end_html
+
 * quick-insert-unicode
 
 A completing-read command for looking up unicode characters by name 😉.
@@ -17,3 +27,21 @@ then require it.
   The main function to use, bind it to a key whatever you like. This function
   use =completing-read= to select unicode characters, and insert the selected item
   to current posotion.
+
+** Contribute
+#+begin_html
+<a href="https://makeapullrequest.com">
+<img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
+</a>
+
+<a href="https://github.com/bbatsov/emacs-lisp-style-guide">
+<img alt="Elisp styleguide" src="https://img.shields.io/badge/elisp-style%20guide-purple" />
+</a>
+#+end_html
+
+
+If you would like to contribute to this project, you may either
+clone and make pull requests to this repository. Or you can
+clone the project and establish your own branch of this tool.
+Any methods are welcome!
+
