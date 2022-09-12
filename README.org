@@ -1,7 +1,7 @@
 * quick-insert-unicode
 
 A completing-read command for looking up unicode characters by name 😉.
-Modified from https://github.com/qdzhang/ivy-unicode.
+Modified from https://github.com/qdzhang/ivy-unicode and https://github.com/bomgar/helm-unicode.
 
 ** Installation
 Clone this repository, and put =quick-insert-unicode.el= file to your =load-path=,

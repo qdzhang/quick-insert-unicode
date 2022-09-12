@@ -7,6 +7,7 @@
 
 (package-file "quick-insert-unicode.el")
 
-(source "gnu")
+(source "gnu" "https://mirrors.bfsu.edu.cn/elpa/gnu/")
+(source "melpa" "https://mirrors.bfsu.edu.cn/elpa/melpa/")
 
 (depends-on "emacs" "26.1")
