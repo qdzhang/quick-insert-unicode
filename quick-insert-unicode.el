@@ -48,7 +48,8 @@
 ;;; Code:
 
 (defvar quick-insert-unicode-names nil
-  "Internal cache variable for unicode characters.  Should not be changed by the user.")
+  "Internal cache variable for unicode characters.
+Should not be changed by the user.")
 
 (defun quick-insert-unicode-format-char-pair (char-pair)
   "Formats a char pair for quick-insert unicode search."
