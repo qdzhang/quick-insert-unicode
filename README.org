@@ -1,0 +1,19 @@
+* quick-insert-unicode
+
+A completing-read command for looking up unicode characters by name 😉.
+Modified from https://github.com/qdzhang/ivy-unicode.
+
+** Installation
+Clone this repository, and put =quick-insert-unicode.el= file to your =load-path=,
+then require it.
+
+#+begin_src elisp
+(require 'quick-insert-unicode)
+#+end_src
+
+** Usage
+=quick-insert-unicode=
+
+  The main function to use, bind it to a key whatever you like. This function
+  use =completing-read= to select unicode characters, and insert the selected item
+  to current posotion.
