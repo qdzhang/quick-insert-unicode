@@ -8,7 +8,7 @@
 ;; URL: https://github.com/qdzhang/quick-insert-unicode
 ;; Version: 0.0.1
 ;; Package-Requires: ((emacs "26.1"))
-;; Keywords: insert unicode
+;; Keywords: tools, wp
 
 ;; This file is not part of GNU Emacs.
 
